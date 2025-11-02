@@ -1,15 +1,5 @@
-# Project Title
-Automated Waste Classification using Convolutional Neural Networks
+Improper waste management is a critical environmental issue worldwide. Rapid urbanization, population growth, and consumer-driven lifestyles have led to a significant increase in waste generation, resulting in pollution, greenhouse gas emissions, and inefficient recycling processes. A major challenge in addressing this issue is the lack of efficient, automated systems for waste segregation, which currently relies heavily on manual sorting. Manual processes are time-consuming, error-prone, and often impractical at scale.
 
-## Problem Statement
-Improper waste management is a major environmental challenge, leading to pollution and inefficient recycling. Many times, waste is not segregated properly at the source, making disposal and recycling harder.
+The goal of this project is to develop a Convolutional Neural Network (CNN)–based image classification system capable of automatically identifying and classifying waste into categories such as organic, recyclable, and non-recyclable. By leveraging deep learning techniques, this system aims to improve the efficiency and accuracy of waste sorting, enabling smarter recycling processes and contributing to environmental sustainability.
 
-This project aims to develop a **Convolutional Neural Network (CNN)** model that can automatically classify waste images into **organic, recyclable, and non-recyclable categories**. The system will assist in **automated waste segregation**, reduce human effort, and promote **environmental sustainability**.
-
-## Objectives
-- Build a CNN model to classify different types of waste.  
-- Improve recycling efficiency through automated recognition.  
-- Support sustainable waste management practices.
-
-## Dataset
-- Kaggle Waste Classification Dataset: [Link](https://www.kaggle.com/datasets/sujaykapadnis/cnn-waste-classification-image-dataset)
+An automated waste classification system can significantly reduce human effort, accelerate recycling workflows, and promote responsible waste management practices, ultimately contributing to cleaner cities, reduced environmental pollution, and a more sustainable future.
